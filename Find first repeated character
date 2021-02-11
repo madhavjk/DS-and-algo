@@ -4,7 +4,7 @@
 
 
 # Python program to find the first 
-# repeated character in a stri 
+# repeated character in a string 
 def firstRepeatedChar(str): 
   
     h = {}  # Create empty hash 
