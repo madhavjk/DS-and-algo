@@ -10,7 +10,7 @@ def firstRepeatedChar(str):
     h = {}  # Create empty hash 
   
     # Traverse each characters in string 
-    # in lower case order 
+    # in lower case o 
     for ch in str: 
   
         # If character is already present 
