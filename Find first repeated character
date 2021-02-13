@@ -3,7 +3,7 @@
 
 
 
-# Python program to find the f
+# Python program to find the first
 # repeated character in a string 
 def firstRepeatedChar(str): 
   
