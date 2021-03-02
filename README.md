@@ -1,1 +1,1 @@
-# DS-and-algo
+# DS-and-alg
